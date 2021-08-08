@@ -1,0 +1,12 @@
+C:\Users\davla\Desktop\MindBoxMath\MindBoxMath\bin\Debug\net5.0\MindBoxMath.deps.json
+C:\Users\davla\Desktop\MindBoxMath\MindBoxMath\bin\Debug\net5.0\MindBoxMath.dll
+C:\Users\davla\Desktop\MindBoxMath\MindBoxMath\bin\Debug\net5.0\ref\MindBoxMath.dll
+C:\Users\davla\Desktop\MindBoxMath\MindBoxMath\bin\Debug\net5.0\MindBoxMath.pdb
+C:\Users\davla\Desktop\MindBoxMath\MindBoxMath\obj\Debug\net5.0\MindBoxMath.csprojAssemblyReference.cache
+C:\Users\davla\Desktop\MindBoxMath\MindBoxMath\obj\Debug\net5.0\MindBoxMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davla\Desktop\MindBoxMath\MindBoxMath\obj\Debug\net5.0\MindBoxMath.AssemblyInfoInputs.cache
+C:\Users\davla\Desktop\MindBoxMath\MindBoxMath\obj\Debug\net5.0\MindBoxMath.AssemblyInfo.cs
+C:\Users\davla\Desktop\MindBoxMath\MindBoxMath\obj\Debug\net5.0\MindBoxMath.csproj.CoreCompileInputs.cache
+C:\Users\davla\Desktop\MindBoxMath\MindBoxMath\obj\Debug\net5.0\MindBoxMath.dll
+C:\Users\davla\Desktop\MindBoxMath\MindBoxMath\obj\Debug\net5.0\ref\MindBoxMath.dll
+C:\Users\davla\Desktop\MindBoxMath\MindBoxMath\obj\Debug\net5.0\MindBoxMath.pdb
